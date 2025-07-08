@@ -5,8 +5,8 @@
 #define DHTPIN D1         // Pin where DHT11 is connected
 #define DHTTYPE DHT11     // DHT11 sensor type
 
-const char* ssid = "Redmi A1+";
-const char* password = "syedhassan";
+const char* ssid = "Write your wifi name";
+const char* password = "write your wifi password";
 
 #define FIREBASE_HOST "write Your FIREBASE_HOST"
 #define FIREBASE_AUTH "write your FIREBASE_AUTH"
