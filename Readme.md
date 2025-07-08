@@ -84,7 +84,7 @@ const concentrationToAQI = (concentration) => {
   // Maps gas concentration to AQI using breakpoint tables
 };
 AQI Categories
-AQI Range	Description	Emoji	Color
+AQI Range	Description	
 0–50	Good	😊	Green
 51–100	Moderate	😐	Yellow
 101–150	Unhealthy for Sensitive Groups	😷	Orange
